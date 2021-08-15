@@ -1,12 +1,11 @@
 ---
 layout: page
 title:  "Resistant Gender"
-date:   2021-08-14 21:20:00 -0400
+date:   2021-09-13 21:20:00 -0400
 categories: gender workshop
 ---
-**September 13**  
 *6:30pm — 9:30pm*  
-*Zoom link TK*
+[A.I.R. Gallery](http://airgallery.org) and via Zoom
 
 # Workshop description:
 
