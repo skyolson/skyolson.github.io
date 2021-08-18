@@ -1,10 +1,8 @@
 ---
 layout: page
-#title: The Invisible Hand (2021)
+title: A Situation of Bodies (2018)
 permalink: /work/a-situation-of-bodies
 ---
-
-## A Situation of Bodies (2018)
 
   *Hand soap, tubing, compressed gas, pneumatic actuators, aluminum, steel, two channel digital video, 20 minutes*
 

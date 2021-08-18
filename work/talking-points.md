@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Talking Points (2014)
 permalink: /work/talking-points
 ---
-
-## Talking Points (2014)
 
 *Three-channel digital video*
 

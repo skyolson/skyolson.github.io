@@ -1,5 +1,6 @@
 ---
 layout: page
+title: The Invisible Hand (2021)
 permalink: /work/the-invisible-hand
 ---
 
