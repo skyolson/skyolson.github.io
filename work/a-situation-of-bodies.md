@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Situation of Bodies (2018)
-permalink: /work/a-situation-of-bodies
+permalink: /artwork/a-situation-of-bodies
 ---
 
   *Hand soap, tubing, compressed gas, pneumatic actuators, aluminum, steel, two channel digital video, 20 minutes*

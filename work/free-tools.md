@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Free Tools (2020)
-permalink: /work/free-tools
+permalink: /artwork/free-tools
 ---
 
 *Super 8 film, flyers*

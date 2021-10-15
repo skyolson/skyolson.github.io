@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Work
-permalink: /work/
+title: Artwork
+permalink: /artwork/
 ---
 - [The Invisible Hand (2021)](the-invisible-hand)
 - [Free Tools (2020)](free-tools)

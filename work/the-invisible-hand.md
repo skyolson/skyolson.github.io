@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Invisible Hand (2021)
-permalink: /work/the-invisible-hand
+permalink: /artwork/the-invisible-hand
 ---
 
 ## The Invisible Hand (2021)

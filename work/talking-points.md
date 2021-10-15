@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talking Points (2014)
-permalink: /work/talking-points
+permalink: /artwork/talking-points
 ---
 
 *Three-channel digital video*
