@@ -1,7 +1,7 @@
 $(document).ready(function() {
 	var pointerX = window.innerWidth*2/3;
 	var pointerY = window.innerHeight*2/3;
-	var pointerScale = .5
+	var pointerScale = .7
 	var objectScale = .8
 	var objects = $('body,main,header,footer,a,.post-meta,.site-title,#overlay')
 

@@ -20,7 +20,7 @@
 }
 
 .shine {
-	@include shine(pink,#333)
+	@include shine(lightpink,#888)
 }
 
 body {
@@ -54,10 +54,27 @@ body {
 	color: auto;
 	position:absolute;
 	pointer-events: none;
-	opacity: 0.15;
+	opacity: 0;
 	top: 0;
 	left: 0;
 	right: 0;
 	bottom: 0;
 }
 html { min-height: 100%; position: relative;}
+
+@mixin animation($duration) {
+	$name: #{unique-id()};
+	
+	@keyframes #{$name} {
+		@content
+	}
+	
+	animation-name: $name;
+	animation-duration: $duration;
+}
+
+img { opacity: 0.5; transition: 0.5s;}
+
+img:hover { opacity: 1.0;};
+
+li { @extend h1; list-style-type: none; }
