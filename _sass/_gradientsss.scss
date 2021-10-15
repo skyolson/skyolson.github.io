@@ -24,12 +24,14 @@
 }
 
 body {
-	background-image: radial-gradient(circle at 50% 50%, teal, deeppink);
+		
+	line-height: 1.3em;
+	background-image: radial-gradient(circle at 50% 50%, desaturate(teal,25%), hotpink);
 	background-position: -30vw -30vh;
 	background-size: 200vw 200vh;
 	
 	a.shine,a.shine:hover {
-		@include shine(deepskyblue,#001);
+		@include shine(skyblue,white);
 		color: black;
 	}
 	
