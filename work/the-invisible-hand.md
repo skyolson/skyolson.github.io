@@ -12,12 +12,12 @@ permalink: /work/the-invisible-hand
 
 The film is an intimate portrait of the cleaning crew and a journey  through the epic landscape of the building itself. The camera never  leaves the Gouvernement, following the cleaners’ often solitary labor  and documenting their brief encounters with one another and with other  building staff. While Olson’s camera maintains an observational  distance, its presence is a frequent topic of conversation by the  cleaners and staff, dialogue that reveals power dynamics and hierarchies at play within the building. At other times, the camera takes the  vantage point of the cleaning machinery itself, floating just above its  gleaming floors or bouncing down its corridors.
 
-<img src="/assets/The Invisible Hand 1.png" alt="Sky Stills 1" style="zoom:25%;" />
+<img src="../assets/The Invisible Hand 1.png" alt="Sky Stills 1" />
 
-<img src="/assets/The Invisible Hand 2.png" alt="Sky Stills 2" style="zoom:25%;" />
+<img src="../assets/The Invisible Hand 2.png" alt="Sky Stills 2" />
 
-<img src="/assets/The Invisible Hand 3.png" alt="Sky Stills 3" style="zoom:25%;" />
+<img src="../assets/The Invisible Hand 3.png" alt="Sky Stills 3"  />
 
-<img src="/assets/The Invisible Hand 4.png" alt="Sky Stills 4" style="zoom:25%;" />
+<img src="../assets/The Invisible Hand 4.png" alt="Sky Stills 4" />
 
-<img src="/assets/The Invisible Hand 5.png" alt="Sky Stills 5" style="zoom:25%;" />
+<img src="../assets/The Invisible Hand 5.png" alt="Sky Stills 5" />
