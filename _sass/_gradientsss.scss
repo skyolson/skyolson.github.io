@@ -2,8 +2,6 @@
  * Reset some basic elements
  */
 
-$pink: desaturate(pink,60%);
-$blue: lightskyblue;
 
 @mixin shine ($highlight,$color) {
 	background-image: linear-gradient(80deg,mix($highlight,$color),
@@ -22,20 +20,30 @@ $blue: lightskyblue;
 }
 
 .shine {
-	@include shine($blue,black)
+	@include shine(pink,#333)
 }
 
 body {
-	background-image: radial-gradient(circle at 50% 50%, white, $pink);
+	background-image: radial-gradient(circle at 50% 50%, teal, deeppink);
 	background-position: -30vw -30vh;
 	background-size: 200vw 200vh;
 	
 	a.shine,a.shine:hover {
-		@include shine(black,lighten(#f43,10%));
+		@include shine(deepskyblue,#001);
 		color: black;
 	}
 	
-	table tr { background-color: transparent !important; }
+	table {
+		border: none;
+		tr { 
+			background-color: transparent !important; 
+		}
+		td {
+			border: none;
+			padding: 0;
+			padding-left: 1em;
+		}
+	}
 	
 }
 #overlay {
