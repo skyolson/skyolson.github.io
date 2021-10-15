@@ -4,7 +4,7 @@ title: Work
 permalink: /work/
 ---
 - [The Invisible Hand (2021)](the-invisible-hand)
-- [Free Tools (2020)]
+- [Free Tools (2020)](free-tools)
 - [A situation of bodies (2018)](a-situation-of-bodies)
 - [Campaign Office (2016)]
 - [Hyperparasite (2015)]
