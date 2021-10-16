@@ -49,7 +49,7 @@ body {
 	
 }
 #overlay {
-	@include shine(white, transparent)
+	@include shine(white, transparent);
 	background-clip: inherit;
 	color: auto;
 	position:absolute;
