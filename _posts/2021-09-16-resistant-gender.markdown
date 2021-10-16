@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Resistant Gender"
-date:   2021-11-20 21:20:00 -0400
+date:   2021-11-20 21:20:00
 categories: gender workshop
 ---
 *1:00pm — 5:00pm*  
