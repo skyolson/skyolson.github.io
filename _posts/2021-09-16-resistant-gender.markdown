@@ -1,11 +1,12 @@
 ---
 layout: page
-title:  "Resistant Gender"
+title:  "Gender Resistance"
 date:   2021-11-20 21:20:00
 categories: gender workshop
 ---
 *1:00pm — 5:00pm*  
-[A.I.R. Gallery](http://airgallery.org) and via Zoom
+[A.I.R. Gallery](http://airgallery.org) and via Zoom  
+<span class="button">[RSVP **here**](https://docs.google.com/forms/d/e/1FAIpQLSdMcyeyoF7iXJl2wSrazmxam7mgQytqJsti0KE5yg9vCQ91ug/viewform?usp=sf_link)</span>
 
 # Workshop description:
 
@@ -13,35 +14,31 @@ categories: gender workshop
 
 <p align="right"><em>María Lugones, The Coloniality of Gender</em></p>
 
-This workshop approaches the question “why are there two genders?” from historical, decolonial, and embodied perspectives. Prior knowledge or experience with gender studies and decolonial theory is not required, but participants are asked to come with a willingness to challenge conventional understandings of gender and sex, and to explore the intersections of these categories with racist and imperialist oppression.
+Tthis workshop approaches the question “why are there two genders?” from a historical and decolonial perspective. We will begin by discussing María Lugones’ essay *The Coloniality of Gender,* which presents a framework for understanding the modern gender system as part of a larger system of power that also manifests as racism, settler colonialism, and capitalism, among other things.
 
-As Lugones’ quotation above suggests, numerous historical and contemporary manifestations of non-binary gender relations, including the contemporary categories of transgender and intersex under the LGBTQIA umbrella[^1], throw into question assumptions made about gender and sex—assumptions that are now in many ways global and which cross social, cultural, legal, and political realms. 
+Jumping off from Lugones’ text, we will discuss several historical examples of non-binary, non-patriarchal gendered social roles, expressions and identities in order to emphasize the long historical timeline that we are working with and to focus our attention on both structures of oppression and forms of resistance. 
 
-This workshop begins with a discussion of several historical examples of non-binary gender expressions and identities in order to emphasize the long historical timeline that we are working with and to focus our attention on both structures of oppression and forms of resistance. We will then turn to María Lugones’ essay The Coloniality of Gender as a framework for understanding the modern gender system through the intersectional, entangled oppressions of gender, race, and class. 
+Prior knowledge or experience with this material is not required, but participants are asked to come with a willingness to challenge conventional understandings of gender and sex, and to explore the intersections of these categories with racist and imperialist oppression.
 
-We will also be turning inwards and towards each other to build our awareness of our gender embodiment and share experiences of patriarchal, racist, classist, and transgender oppressions from a decolonial perspective. We will be drawing extensively from malcolm shanks’ and khari jackson’s zine Decolonizing Gender. This workshop structure and its curriculum are deeply indebted to shanks’ and jackson’s brilliance, generosity, and labor.
+We will also be turning inwards and towards each other to build our awareness of our gender embodiment and share our experiences. This workshop also draws from malcolm shanks’ and khari jackson’s zine [*Decolonizing Gender*](https://www.decolonizinggender.com/the-zine), and is deeply indebted to shanks’ and jackson’s brilliance, generosity, and labor.
 
 # Objectives:
 
--	Discuss several historical examples of individuals and cultures who expressed non-binary, multiple, or other forms of gender, and who understood gender relations in non-patriarchal or egalitarian forms.  
--	Introduce a solidarity-centered framework for understanding oppression that involves intersections of gender, race, colonialism, and capitalism.
--	Connect an understanding of the modern gender system to our lived and embodied experiences of gender and practice conversations about gender from a decolonial perspective.
+-	Discuss a solidarity-centered framework for understanding gender-based oppression as part of larger systems of racist, colonial, imperialist, and capitalist power.
+-	Learn about individuals and cultures who have expressed, experienced, or understood gender in ways that resist or refuse our binary, essentialist, patriarchal, and hierarchical framework.
+-	Reflect on our lived and embodied experiences of gender and practice conversations about gender from a decolonial perspective.
 
 # Schedule:
 
-|6:30p|welcome and land acknowledgement (10 min)|
-|6:40p|presentation on historical examples of non-binary/egalitarian gender (30 min)  
-|7:10p|large group activity from Decolonizing Gender (30 min)  
-|7:40p|break (15 min)  
-|7:55p|facilitated discussion on Coloniality of Gender (30 min)  
-|8:30p|small group activity from Decolonizing Gender (30 min)  
-|9:00p|small group report outs (15 min)  
-|9:15p|closing discussion (15 min)  
-|9:30p|end
 
-------
-
-
-
-[^1]: terms that themselves are racialized, classed, and medicalized, and which depend on English-speaking/white cultural hegemony for their meaning.
+| Time | Description|
+|--:|---|
+| **1:00 PM** | welcome, introduction, and land acknowledgement (10 min) |
+|**1:10 PM** | facilitated discussion on *Coloniality of Gender* (60 min)|
+|**2:10 PM** | large group activity from *Decolonizing Gender* (30 min)|
+|**2:40 PM** | break (20 min)|
+|**3:00 PM** | discussion of examples of non-binary/egalitarian gender (60 min)|
+|**4:00 PM** | small group activity from *Decolonizing Gender* (45 min)|
+|**4:45 PM** | closing|
+|**5:00 PM** | end |
 
