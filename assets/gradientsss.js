@@ -3,14 +3,16 @@ $(document).ready(function() {
 	var pointerY = window.innerHeight*2/3;
 	var pointerScale = .7
 	var objectScale = .8
-	var objects = $('body,main,header,footer,a,.post-meta,.site-title,#overlay,h1,.p-name')
+	var objects = $('body,main,header,footer,a,.post-meta,.site-title,#overlay,h1,th,.p-name')
 
 	var pointerUpdate = function(event) {
 		pointerX = event.pageX-window.scrollX;
 		pointerY = event.pageY-window.scrollY;
 	}
 	window.scroll(pointerUpdate)
-	$(window).mousemove(pointerUpdate)
+	window.addEventListener("mousemove",pointerUpdate)
+	window.addEventListener("touchmove",pointerUpdate)
+	window.addEventListener("touchstart",pointerUpdate)
 	
 	objects.not("body,#overlay").addClass("shine")
 	

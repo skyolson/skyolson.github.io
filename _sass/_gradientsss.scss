@@ -4,7 +4,7 @@
 
 
 @mixin shine ($highlight,$color) {
-	background-image: linear-gradient(80deg,mix($highlight,$color),
+	background-image: repeating-linear-gradient(80deg,mix($highlight,$color),
 											$highlight 30%, 
 											$color,
 											$highlight 45%,
@@ -15,8 +15,12 @@
 											mix($highlight,$color));
     background-size: 200vw 200vh;										
 	background-clip: text;
-	-webkit-text-fill-color: rgba(0,0,0,0);
+	-webkit-text-fill-color: transparent;
 	color: transparent;
+	
+	@media (pointer:coarse) {
+		transition: 0.3s;		
+	}
 }
 
 .shine {
@@ -33,26 +37,33 @@ body {
 		@include shine(skyblue,white);
 		color: black;
 	}
+	.button {
+		a.shine,a.shine:hover {
+			line-height: 3em;
+			padding: 5px;
+			margin-top: 5px;
+			border: thin solid white;
+			border-radius: 3px;
+		}
+	}
 	
 	main {
 	
-		h1.shine {
+		h1.shine,th.shine {
 			@include shine(teal,white);
 		}
 	
 		table {
 			border: none;
-			tr { 
+			tr,th,td { 
 				background-color: transparent !important; 
 			}
-			td {
-				border: none;
-				padding: 0;
-				padding-left: 1em;
+			td,th {
+				border-color: pink;
 			}
 		}
 	
-		li { @extend h1; list-style-type: none; }
+		li { @extend h1; list-style-type: '+ '; }
 	
 		img { opacity: 0.5; transition: 0.5s;}
 
