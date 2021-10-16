@@ -20,12 +20,11 @@
 }
 
 .shine {
-	@include shine(lightpink,#888)
+	@include shine(lightpink,#777)
 }
 
 body {
 		
-	line-height: 1.3em;
 	background-image: radial-gradient(circle at 50% 50%, desaturate(teal,25%), hotpink);
 	background-position: -30vw -30vh;
 	background-size: 200vw 200vh;
@@ -35,19 +34,36 @@ body {
 		color: black;
 	}
 	
-	table {
-		border: none;
-		tr { 
-			background-color: transparent !important; 
+	main {
+	
+		h1.shine {
+			@include shine(teal,white);
 		}
-		td {
+	
+		table {
 			border: none;
-			padding: 0;
-			padding-left: 1em;
+			tr { 
+				background-color: transparent !important; 
+			}
+			td {
+				border: none;
+				padding: 0;
+				padding-left: 1em;
+			}
 		}
+	
+		li { @extend h1; list-style-type: none; }
+	
+		img { opacity: 0.5; transition: 0.5s;}
+
+		img:hover { opacity: 1.0;};
+
+		hr { border: none; border-top: thin solid white; }
+
 	}
 	
 }
+
 #overlay {
 	@include shine(white, transparent);
 	background-clip: inherit;
@@ -72,9 +88,3 @@ html { min-height: 100%; position: relative;}
 	animation-name: $name;
 	animation-duration: $duration;
 }
-
-img { opacity: 0.5; transition: 0.5s;}
-
-img:hover { opacity: 1.0;};
-
-li { @extend h1; list-style-type: none; }

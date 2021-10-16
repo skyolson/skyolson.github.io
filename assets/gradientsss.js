@@ -3,7 +3,7 @@ $(document).ready(function() {
 	var pointerY = window.innerHeight*2/3;
 	var pointerScale = .7
 	var objectScale = .8
-	var objects = $('body,main,header,footer,a,.post-meta,.site-title,#overlay')
+	var objects = $('body,main,header,footer,a,.post-meta,.site-title,#overlay,h1,.p-name')
 
 	var pointerUpdate = function(event) {
 		pointerX = event.pageX-window.scrollX;
