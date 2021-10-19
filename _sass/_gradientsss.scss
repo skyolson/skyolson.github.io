@@ -5,13 +5,15 @@
 
 @mixin shine ($highlight,$color) {
 	background-image: repeating-linear-gradient(80deg,mix($highlight,$color),
-											$highlight 30%, 
-											$color,
+											$color 30%, 
+											$highlight 35%, 
+											$color 40%, 
 											$highlight 45%,
 											mix($highlight,$color),
 											$highlight 55%,
-											$color,
-											$highlight 70%,
+											$color 60%, 
+											$highlight 65%, 
+											$color 70%, 
 											mix($highlight,$color));
     background-size: 200vw 200vh;										
 	background-clip: text;
@@ -24,17 +26,17 @@
 }
 
 .shine {
-	@include shine(lightpink,#777)
+	@include shine(lighten(gold,30%),gold)
 }
 
 body {
 		
-	background-image: radial-gradient(circle at 50% 50%, desaturate(teal,25%), hotpink);
+	background-image: radial-gradient(circle at 50% 50%, desaturate(yellow,50%), hotpink 70%);
 	background-position: -30vw -30vh;
 	background-size: 200vw 200vh;
 	
 	a.shine,a.shine:hover {
-		@include shine(skyblue,white);
+		@include shine(deepskyblue,seagreen);
 		color: black;
 	}
 	.button {
@@ -50,7 +52,7 @@ body {
 	main {
 	
 		h1.shine,th.shine {
-			@include shine(teal,white);
+			@include shine(hotpink,purple);
 		}
 	
 		table {
@@ -59,7 +61,7 @@ body {
 				background-color: transparent !important; 
 			}
 			td,th {
-				border-color: pink;
+				border-color: white;
 			}
 		}
 	
