@@ -1,8 +1,7 @@
 ---
-layout: page
-title:
+layout: single
+title: About
 permalink: /about/
-list_title: ""
 ---
 
 <img src="/assets/Headshot.png" alt="Headshot" style="width: 33%;" />

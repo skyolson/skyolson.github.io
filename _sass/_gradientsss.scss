@@ -36,11 +36,18 @@ body {
 	background-size: 200vw 200vh;
     font-size:18px;
     
+    color: black;
+    font-weight: 100 !important;
+    
+    h1,h2,.nav__sub-title,.site-title {font-weight: 100 ;}
+    
     .post-link,.site-title {font-size:2em;}
+    
+    #site-nav, #footer {background: transparent;}
 	
 	a.shine,a.shine:hover {
-		@include shine(lighten(gold,30%),hotpink);
-		color: black;
+		//@include shine(desaturate(yellow,70%), desaturate(indigo,50%));
+		color: desaturate(indigo,50%);
 	}
 	.button {
 		a.shine,a.shine:hover {
@@ -93,6 +100,8 @@ body {
 	bottom: 0;
 }
 html { min-height: 100%; position: relative;}
+
+nav.pagination, footer.page__meta { display: none; }
 
 @mixin animation($duration) {
 	$name: #{unique-id()};

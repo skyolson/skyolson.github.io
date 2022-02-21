@@ -28,7 +28,7 @@ instagram_username: sky__olson
 github_username:  skyolson
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 future: true
@@ -36,6 +36,31 @@ show_excerpts: true
 header_pages:
     - about.markdown
     - artwork.md
+atom_feed:
+    hide: true
+    
+head_scripts:
+    - https://code.jquery.com/jquery-3.3.1.min.js
+    - /assets/gradientsss.js
+    
+collections:
+    work:
+        output: true
+        permalink: /:collection/:title
+        
+defaults:
+  # _work
+  - scope:
+      path: ""
+      type: work
+    values:
+      layout: single
+      show_date: false
+      sidebar:
+        nav: "work"
+        
+
+        
 
 # Exclude from processing.
 # The following items will not be processed, by default.

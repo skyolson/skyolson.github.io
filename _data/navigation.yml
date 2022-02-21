@@ -1,0 +1,36 @@
+# main links
+# main:
+#   - title: "Quick-Start Guide"
+#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+work:
+  - title: "Work"
+    children:
+      - title: "The Invisible Hand (2021)"
+        url: /work/the-invisible-hand
+      - title: "INoperables (2018-2021)"
+        url: /work/inoperables
+      - title: "Free Tools (2021)"
+        url: /work/free-tools
+      - title: "Some phantasmagorias (2018)"
+      - title: "A Situation of Bodies (2018)"
+        url: /work/a-situation-of-bodies
+      - title: "Flower Projector (2015-2018)"
+      - title: "Campaign Office (2016)"
+      - title: "Hyperparasite (2015)"
+      - title: "Net work (2015)"
+      - title: "Suspended Animation (2015)"
+      - title: "Talking Points (2014)"
+        url: /work/talking-points
+      - title: "Spectral Tomato (2014)"
+      - title: "Flower/Stool (2014)"
+      - title: "Marbling"
+      - title: "Descent"
+      - title: "Drawing"
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
