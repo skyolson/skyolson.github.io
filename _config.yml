@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sky Olson
+title: Sky Syzygy
 author: 
 email: sky@skyolson.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -33,7 +33,6 @@ plugins:
   - jekyll-feed
 future: true
 show_excerpts: true
-
 header_pages:
     - about.markdown
     - artwork.md

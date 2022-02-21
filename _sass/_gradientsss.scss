@@ -31,12 +31,15 @@
 
 body {
 		
-	background-image: radial-gradient(circle at 50% 50%, desaturate(yellow,50%), hotpink 70%);
+	background-image: radial-gradient(circle at 50% 50%, desaturate(yellow,70%), desaturate(indigo,50%) 70%);
 	background-position: -30vw -30vh;
 	background-size: 200vw 200vh;
+    font-size:18px;
+    
+    .post-link,.site-title {font-size:2em;}
 	
 	a.shine,a.shine:hover {
-		@include shine(deepskyblue,seagreen);
+		@include shine(lighten(gold,30%),hotpink);
 		color: black;
 	}
 	.button {
@@ -52,7 +55,7 @@ body {
 	main {
 	
 		h1.shine,th.shine {
-			@include shine(hotpink,purple);
+			@include shine(lighten(gold,30%),purple);
 		}
 	
 		table {
