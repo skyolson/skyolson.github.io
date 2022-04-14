@@ -6,12 +6,12 @@ title: a situation of bodies (2018)
 
 Jan Van Eyck, Maastricht, Netherlands
 
-<img src="/assets/A situation of bodies 1.jpg" alt="A situation of bodies" />
+<img src="/assets/a situation of bodies 1.jpg" alt="a situation of bodies" />
 
-<img src="/assets/A situation of bodies 2.jpg" alt="A situation of bodies" />
+<img src="/assets/a situation of bodies 2.jpg" alt="a situation of bodies" />
 
-<img src="/assets/A situation of bodies 3.jpg" alt="A situation of bodies" />
+<img src="/assets/a situation of bodies 3.jpg" alt="a situation of bodies" />
 
-<img src="/assets/A situation of bodies 4.jpg" alt="A situation of bodies" />
+<img src="/assets/a situation of bodies 4.jpg" alt="a situation of bodies" />
 
-<img src="/assets/A situation of bodies 5.jpg" alt="A situation of bodies" />
+<img src="/assets/a situation of bodies 5.jpg" alt="a situation of bodies" />
