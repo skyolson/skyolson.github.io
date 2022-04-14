@@ -3,7 +3,7 @@ $(document).ready(function() {
 	var pointerY = window.innerHeight*2/3;
 	var pointerScale = .7
 	var objectScale = .8
-	var objects = $('body,main,header,footer,a,.post-meta,.site-title,#overlay,h1,th,.p-name')
+	var objects = $('body,.site-title,a,.post-meta,h1,.nav__sub-title,header,footer')
 
 	var pointerUpdate = function(event) {
 		pointerX = event.pageX-window.scrollX;
@@ -19,10 +19,11 @@ $(document).ready(function() {
 	setInterval(pointerCheck, 30);
 	function pointerCheck() {
 		objects.each(function(){
+      p = $(this).position()
 			this.style.backgroundPositionX = pointerScale*(pointerX-window.innerWidth/2)-window.innerWidth/2-
-						objectScale*$(this).position().left+window.scrollX+"px"
+						objectScale*p.left+window.scrollX+"px"
 			this.style.backgroundPositionY = pointerScale*(pointerY-window.innerHeight/2)-window.innerHeight/2-
-						objectScale*$(this).position().top+window.scrollY+"px"
+						objectScale*p.top+window.scrollY+"px"
 		})
 		// console.log(pointerX+","+pointerY)
 	}

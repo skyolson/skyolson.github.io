@@ -15,10 +15,11 @@
 											$highlight 65%, 
 											$color 70%, 
 											mix($highlight,$color));
-    background-size: 200vw 200vh;										
+  background-size: 200vw 200vh;										
 	background-clip: text;
-	-webkit-text-fill-color: transparent;
-	color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
 	
 	@media (pointer:coarse) {
 		transition: 0.3s;		
@@ -26,7 +27,14 @@
 }
 
 .shine {
-	@include shine(lighten(gold,30%),gold)
+	@include shine(lighten(gold,30%),gold);
+  transition: all 0s !important;
+}
+
+::selection {
+  background: desaturate(indigo,50%);
+  -webkit-text-fill-color: hotpink;
+  color: hotpink;
 }
 
 body {
@@ -36,8 +44,15 @@ body {
 	background-size: 200vw 200vh;
     font-size:18px;
     
-    color: black;
     font-weight: 100 !important;
+    p {
+      background-color: white;
+      background-size: 200vw 200vh;										
+    	background-clip: text;
+      -webkit-background-clip: text;
+      color: transparent;
+      -webkit-text-fill-color: transparent;
+  }
     
     h1,h2,.nav__sub-title,.site-title {font-weight: 100 ;}
     
@@ -48,7 +63,14 @@ body {
 	a.shine,a.shine:hover {
 		//@include shine(desaturate(yellow,70%), desaturate(indigo,50%));
 		color: desaturate(indigo,50%);
+    position: relative;
+    text-decoration: none;
 	}
+  
+  a.shine:before, { content: ""; position: absolute; left: 0; bottom: 0; height: 1px !important; background: white !important; width: 100%; -webkit-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; -webkit-transform: scaleX(0) translate3d(0, 0, 0); transform: scaleX(0) translate3d(0, 0, 0); }
+  a.shine:hover:before { -webkit-transform: scaleX(1); -ms-transform: scaleX(1); transform: scaleX(1); }
+  
+  
 	.button {
 		a.shine,a.shine:hover {
 			line-height: 3em;
@@ -59,27 +81,28 @@ body {
 		}
 	}
 	
-	main {
+	article {
 	
-		h1.shine,th.shine {
-			@include shine(lighten(gold,30%),purple);
-		}
+//    h1.shine,th.shine {
+//      @include shine(lighten(gold,30%),purple);
+//    }
 	
+    #page-title { line-height: inherit;}
+    
 		table {
 			border: none;
-			tr,th,td { 
-				background-color: transparent !important; 
-			}
-			td,th {
+			tr,th,td,thead { 
+        background-color: white;
+        background-size: 200vw 200vh;										
+      	background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+        -webkit-text-fill-color: transparent;
 				border-color: white;
 			}
 		}
 	
 		li { @extend h1; list-style-type: '+ '; }
-	
-//		img { opacity: 0.5; transition: 0.5s;}
-//
-//		img:hover { opacity: 1.0;};
 
 		hr { border: none; border-top: thin solid white; }
 
