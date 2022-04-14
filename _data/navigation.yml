@@ -5,29 +5,39 @@
 work:
   - title: "Work"
     children:
+      - title: "Gender Resistance (workshop, 2021)"
+        url: /work/gender-resistance
       - title: "The Invisible Hand (2021)"
-        url: /work/the-invisible-hand
-      - title: "INoperables (2018-2021)"
-        url: /work/inoperables
-      - title: "Free Tools (2021)"
+        url: /
+      - title: "The Invisible Hand (installation, 2021)"
+        url: /work/the-invisible-hand-installation
+      - title: "inoperatives (2018-2021)"
+        url: /work/inoperatives
+      - title: "Free Tools (2020)"
         url: /work/free-tools
-      - title: "Some phantasmagorias (2018)"
-      - title: "A Situation of Bodies (2018)"
+      - title: "some phantasmagorias (2018)"
+        url: /work/some-phantasmagorias
+      - title: "a situation of bodies (2018)"
         url: /work/a-situation-of-bodies
       - title: "Flower Projector (2015-2018)"
+        url: /work/flower-projector
       - title: "Campaign Office (2016)"
-      - title: "Hyperparasite (2015)"
-      - title: "Net work (2015)"
-      - title: "Suspended Animation (2015)"
-      - title: "Talking Points (2014)"
+        url: /work/campaign-office
+      # - title: "Hyperparasite (2015)"
+      # - title: "Net work (2015)"
+      # - title: "Suspended Animation (2015)"
+      - title: "Talking Points (2014-2018)"
         url: /work/talking-points
       - title: "Spectral Tomato (2014)"
-      - title: "Flower/Stool (2014)"
-      - title: "Marbling"
-      - title: "Descent"
-      - title: "Drawing"
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+        url: /work/spectral-tomato
+      # - title: "Flower/Stool (2014)"
+      # - title: "Marbling"
+      # - title: "Descent"
+      # - title: "Drawing"
+
+main:
+  - title: "About"
+    url: /about
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
