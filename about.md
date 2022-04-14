@@ -2,6 +2,7 @@
 layout: single
 title: About
 permalink: /about/
+nav: "work"
 ---
 
 <img src="/assets/Headshot.png" alt="Headshot" style="width: 33%;" />
