@@ -22,13 +22,13 @@
   color: transparent;
 	
 	@media (pointer:coarse) {
-		transition: 0.3s;		
+		transition: .3s !important;		
 	}
 }
 
 .shine {
-	@include shine(lighten(gold,30%),gold);
   transition: all 0s !important;
+	@include shine(lighten(gold,30%),gold);
 }
 
 ::selection {
@@ -42,8 +42,11 @@ body {
 	background-image: radial-gradient(circle at 50% 50%, desaturate(yellow,70%), desaturate(indigo,50%) 70%);
 	background-position: -30vw -30vh;
 	background-size: 200vw 200vh;
-    font-size:18px;
-    
+	@media (pointer:coarse) {
+		transition: .3s !important;		
+	}
+  
+    font-size:18px; 
     font-weight: 100 !important;
     p {
       background-color: white;
