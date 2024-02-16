@@ -5,8 +5,12 @@
 work:
   - title: "Work"
     children:
-      - title: "Gender Resistance (workshop, 2021)"
-        url: /work/gender-resistance
+      - title: "gender liberators (2024)"
+        url: /
+      - title: "gender.network (2023-ongoing)"
+        url: /work/gender-network
+      # - title: "Gender Resistance (workshop, 2021)"
+      #   url: /work/gender-resistance
       - title: "The Invisible Hand (2021)"
         url: /work/the-invisible-hand
       - title: "inoperatives (2018-2021)"
