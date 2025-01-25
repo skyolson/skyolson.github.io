@@ -3,13 +3,16 @@ title:  "gender liberators"
 permalink: "/"
 ---
 
-<img src="/assets/gender liberators 1.jpg" alt="gender liberators (digital mockup)" />
+<img src="/assets/gender liberators 3.jpg" alt="gender liberators (book edges)" />
 
-<img src="/assets/gender liberators 2.jpg" alt="gender liberators (closeup of marbled paper)" />
+<img src="/assets/gender liberators 2.jpg" alt="gender liberators (pages open)" />
 
-<img src="/assets/gender liberators 5.jpg" alt="gender liberators (process shot of marbling)" />
+<img src="/assets/gender liberators 1.jpg" alt="gender liberators (closeup of spine)" />
 
-<img src="/assets/gender liberators 6.jpg" alt="gender liberators (closeup of uncut pages)" />
+<img src="/assets/gender liberators 4.jpg" alt="gender liberators (marbling the covers)" />
+
+<img src="/assets/gender liberators 5.jpg" alt="gender liberators (closeup of uncut pages)" />
+
 
 *gender liberators* is an anthology of writing, poetry, correspondence, photos, paintings, flyers, and other ephemera by trans\*, two-spirit, nonbinary, and trans-adjacent authors and creators from 20th century turtle island/North America. The materials in this book were identified and selected based on hundreds of interviews that I have conducted with elders, archivists, scholars, and cultural workers about their lives and work, and about moments, individuals, and groups that were deeply influential but have been underappreciated in accounts of trans* history. Through this community guidance, this anthology centers the perspectives and visual and print culture of trans and queer life, and resists some of the biases of existing histories and archives that under represent the geographic South and Midwest, trans* communities of color, and trans masculine communities. This book seeks to let the included authors and materials speak for themselves and dialogue with each other, while honoring the multiplicity of voices, formats, and perspectives included: *gender liberators* is printed on more than a dozen different paper colors with multiple inks and printing techniques including risograph, letterpress, digital offset, and traditional paper marbling. The cover wrap includes a citation for each image in the book as well as an index for researchers.
 
