@@ -23,9 +23,9 @@ author:
 email: sky@skyolson.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://skyolson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: sky__olson
-github_username:  skyolson
+url: "https://skysyzygy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+instagram_username: sky__syzygy
+github_username:  skysyzygy
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
